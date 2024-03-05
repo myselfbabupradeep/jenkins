@@ -1,0 +1,6 @@
+com\fb\baseclass\BaseClass.class
+com\fb\locators\FbSignupLocators.class
+Org\FaceBook\Hooks.class
+Org\FaceBook\FaceBookSignUp.class
+Org\FaceBook\FbSignUp.class
+Org\FaceBook\TestRunner.class
